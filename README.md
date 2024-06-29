@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is shmuel 
 #### Full-Stack Web Developer 
 I have experience in web development using REST API services using JavaScript, React and typeScript in the Node.js environment.
+(https://github.com/shmuelas7/shmuelas7/blob/main/MERN.jpeg)
 
 Skills:  REACT / JS / HTML / CSS / MongoDB / SQL / TypeScript /  
 
